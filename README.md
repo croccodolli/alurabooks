@@ -1,2 +1,4 @@
 # alurabooks
-Projeto feito durante o curso de responsividade da Alura.
+O Alura Books foi desenvolvido como projeto do curso de responsividade da Alura.
+
+Acesse: https://croccodolli.github.io/alurabooks/
