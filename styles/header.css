@@ -141,6 +141,12 @@
 }
 
 @media screen and (min-width: 1728px) {
+    .container-usuario {
+        display: flex;
+        justify-content: space-between;
+        gap: 2em;
+    }
+    
     .container__texto {
         display: inline;
         font-size: 16px;
@@ -153,13 +159,7 @@
         align-items: center;
         text-decoration: none;
     }
-
-    .container-usuario {
-        display: flex;
-        justify-content: space-between;
-        gap: 2em;
-    }
-
+    
     .navegacao {
         margin-right: auto;
     }
